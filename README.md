@@ -1,7 +1,7 @@
 # 💫 Welcome to my profile!
 Hi! I'm Andrey, web developer! 
 
-Passionate about functional programming and building applications that deliver real value to businesses. Proficient in JavaScript/TypeScript, React, and Next.JS.
+Motivated JavaScript/TypeScript developer with experience in React and Next.JS. Dedicated to writing clean, functional code that delivers maximum value for businesses.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrey-babenko-588528269/) 
